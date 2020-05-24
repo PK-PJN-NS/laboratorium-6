@@ -51,7 +51,7 @@ ale i tak wygodniej z niej korzystać
 niż z pozbawionej wskazówek strony *Analogie*).
 Oprócz analogii typu *osoba*:*płeć*
 można próbować np. typów *państwo*:*stolica*,
-*zwierzę*:*odgłos*, *przedmiot*:*barwa*,
+*nazwisko osoby*:*język*, *zwierzę*:*odgłos*, *przedmiot*:*barwa*,
 *przymiotnik pozytywny*:*przymiotnik negatywny*
 (warto porównać wyrażenia zaczynające się od *dobry* − *zły*,
 czyli najczęstszej takiej pary,
