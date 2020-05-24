@@ -52,7 +52,10 @@ niż z pozbawionej wskazówek strony *Analogie*).
 Oprócz analogii typu *osoba*:*płeć*
 można próbować np. typów *państwo*:*stolica*,
 *zwierzę*:*odgłos*, *przedmiot*:*barwa*,
-*przymiotnik pozytywny*:*przymiotnik negatywny*,
+*przymiotnik pozytywny*:*przymiotnik negatywny*
+(warto porównać wyrażenia zaczynające się od *dobry* − *zły*,
+czyli najczęstszej takiej pary,
+z wyrażeniami zaczynającymi się od rzadszych przymiotników),
 *wyraz*:*jego inna forma* lub dowolnych innych,
 które przyjdą Państwu do głowy.
 
